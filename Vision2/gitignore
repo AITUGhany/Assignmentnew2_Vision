@@ -1,0 +1,19 @@
+# data
+dataset/
+dataset.zip
+extra_real/
+extra_real.zip
+food101/
+synthetic/
+synthetic.zip
+test_hard/
+results.zip
+# weights (share via link)
+*.keras
+*.h5
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+.DS_Store
